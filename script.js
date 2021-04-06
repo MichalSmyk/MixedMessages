@@ -21,3 +21,5 @@ function whatWillYouDo()
 
 const check = whatWillYouDo();
 console.log(check);
+
+// Hola, soy deg, y espero poder ayudarte con tu proyecto
